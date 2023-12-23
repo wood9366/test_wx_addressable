@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+
+/UserSettings/
+/TextToolDatas/
+/Library/
+/obj/
+/Temp/
+/_wx/
+
+*.csproj
+*.sln
+.vs/
+.vsconfig
